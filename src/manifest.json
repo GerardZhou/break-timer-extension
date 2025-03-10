@@ -1,5 +1,7 @@
 {
   "name": "Break Timer",
+  "manifest_version": 3,
+
   "version": "1.0",
   "description": "A Chrome extension to remind you to take breaks.",
   "permissions": ["alarms", "storage", "notifications"],
